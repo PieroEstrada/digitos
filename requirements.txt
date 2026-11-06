@@ -1,0 +1,7 @@
+fastapi
+uvicorn
+tensorflow-cpu==2.16.2
+numpy
+pillow
+python-multipart
+pydantic
